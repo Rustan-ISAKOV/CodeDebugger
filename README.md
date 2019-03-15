@@ -1,2 +1,2 @@
-# CodeDebugger is a repository for my students who study HTTP5, CSS3, JavaScript
+# CodeDebugger is a repository for my students who study JavaScript
 - lessons and practical tasks
