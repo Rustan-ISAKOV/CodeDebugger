@@ -62,8 +62,7 @@ function onClickMe3() {
 }
   
 //проверить такой вариант
-function CheckedRadio(obj){
-	var val;
+function CheckedRadio(obj){ 
 	for(var i=0; i<obj.length; i++){
 		if(obj[i].checked){
 			val = obj[i].value;
