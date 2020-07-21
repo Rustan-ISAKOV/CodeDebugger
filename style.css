@@ -2,7 +2,7 @@
 	margin: 0;            
 	width: 0; /*v.1.1 Testing*/           
 	padding: 0; /*v.2 Master*/                      
-	height: 100px; /*v.2.1 Testing*/                   
+	height: 100px; /*v.2.1 Testing*/                    
 	bottom: 3px; /*v.3 Master*/                
 }                                                            
                                 
@@ -70,7 +70,7 @@ function CheckedRadio(obj){
 		}
 	}
 	return val;  
-}
+} 
 
      
         
