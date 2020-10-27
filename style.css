@@ -2,7 +2,7 @@
 	margin: 0;            
 	width: 0; /*v.1.1 Testing*/               
 	padding: 0; /*v.2 Master*/                                        
-	bottom: 3px; /*v.3 Master*/                           
+	bottom: 3px; /*v.3 Master*/                            
 }                                                               
                                   
           // on/Off текстового поля по checkbox 
@@ -24,7 +24,7 @@ function onClickMe() {
 		document.getElementById("parag").style.display = "none";
 	}  
 	document.getElementById("fText2").value = document.getElementById("fText").value;
-/*	document.getElementById("parag").innerText = document.getElementById("fText").value;*/
+/*	document.getElementById("parag").innerText = document.getElementById("fText").value;*/ 
 	/*alert(document.getElementById("fText").value);*/
 }
          
