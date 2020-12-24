@@ -54,7 +54,7 @@ function radioFun() {
 function onClickMe3() {
 	var radArray2 = document.getElementsByName("r2");
 	for (var i=0; i<radArray2.length; i++) {
-		if (radArray2[i].checked) {
+		if (radArray2[i].checked) { 
 			document.getElementById("fText2").value = radArray2[i].value;
 		}
 	}
